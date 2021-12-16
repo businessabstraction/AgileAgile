@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the Agile Agile, the forever free and improving Agile methodology!
+# What is Agile Agile?
+Agile Agile is the set of methods to enable enterprises to 
+# How to contat us?
+Proceed to the linked GitHub repository, where you can create an issue, ask a queastion, or contribute
+If you are not familiar with GitHub, yet your organisation wants to use Agile Agile, you can email agileagile@businessabstraction.com
 
 You can use the [editor on GitHub](https://github.com/businessabstraction/AgileAgile/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
